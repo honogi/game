@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":1,"characterName":"Actor_rusia00","classId":2,"equips":[10,0,0,10,103],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":99,"maxLevel":99,"name":"ルーシア","nickname":"最強の姫","note":"<CGM耐久50:2>\n<CGM耐久0:0>\n<SBIImage:RuBst>","profile":"レインブルグ王家の力を受け継いだ姫君"},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"ActorChara80_tukibito","classId":2,"equips":[2,1,2,3,0],"faceIndex":7,"faceName":"FaceActor80","traits":[],"initialLevel":1,"maxLevel":99,"name":"グイン","nickname":"姫の付き人","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"モブ","nickname":"","note":"","profile":""}
+]
