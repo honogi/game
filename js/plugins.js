@@ -49,5 +49,6 @@ var $plugins =
 {"name":"MPI_SetVariableRange","status":true,"description":"変数に設定できる値の下限と上限を設定します。","parameters":{}},
 {"name":"UTA_MessageSkip","status":true,"description":"特定キーを押す事でメッセージをスキップできるようにします。","parameters":{"Skip Key":"control","Show Trace":"false"}},
 {"name":"MPI_ValueMonitor","status":true,"description":"変数とスイッチを監視するウインドウを表示します。","parameters":{"一行の高さ":"26","フォントサイズ":"20","余白":"9","未選択項目の不透明度":"100"}},
-{"name":"ThroughFailedToLoad","status":true,"description":"ロード失敗エラーのすり抜けプラグイン","parameters":{"テストプレー時無効":"ON","Web版で無効":"OFF"}}
+{"name":"ThroughFailedToLoad","status":true,"description":"ロード失敗エラーのすり抜けプラグイン","parameters":{"テストプレー時無効":"ON","Web版で無効":"OFF"}},
+{"name":"MPP_SelfVariable","status":true,"description":"【ver.1.2】各イベントにセルフ変数を追加します。","parameters":{"Variables":"300"}}
 ];
